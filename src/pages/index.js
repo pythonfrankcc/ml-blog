@@ -33,7 +33,7 @@ class IndexPage extends React.Component {
         <p>Now go build something great!</p>
          {/* href to the blog  */}
         <a href='https://www.youtube.com' target="_blank">
-          Go
+          Here is the link to the vlog
         </a>
       </Layout>
     )
